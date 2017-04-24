@@ -54,7 +54,7 @@ class Identify
      *
      * @return \Sinergi\BrowserDetector\Os
      */
-    public function os() : Os
+    public function os()
     {
         return $this->os;
     }
@@ -65,7 +65,7 @@ class Identify
      *
      * @return \Sinergi\BrowserDetector\Device
      */
-    public function device() : Device
+    public function device()
     {
         return $this->device;
     }
@@ -76,7 +76,7 @@ class Identify
      *
      * @return \Sinergi\BrowserDetector\Browser
      */
-    public function browser() : Browser
+    public function browser()
     {
         return $this->browser;
     }
@@ -87,7 +87,7 @@ class Identify
      *
      * @return \Sinergi\BrowserDetector\Language
      */
-    public function lang() : Language
+    public function lang()
     {
         return $this->language;
     }

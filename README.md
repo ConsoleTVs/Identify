@@ -11,7 +11,7 @@
 To get the latest version of Laravel Identify, simply add the following line to the require block of your `composer.json` file.
 
 ```
-composer require consoletvs\identify
+composer require consoletvs/identify
 ```
 
 You'll then need to run `composer install` or `composer update` to download it and have the autoloader updated.

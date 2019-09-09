@@ -12,8 +12,8 @@
    "minimum-stability": "stable",
    "require": {
     "php": ">=5.5.9",
-    "illuminate/support": "5.*",
-    "sinergi/browser-detector": "6.0.*"
+    "illuminate/support": "6.*",
+    "sinergi/browser-detector": "6.*"
    },
    "autoload": {
         "psr-4": {
